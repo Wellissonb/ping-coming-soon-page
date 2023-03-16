@@ -16,8 +16,8 @@
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/Wellissonb/ping-coming-soon-page)
+- Live Site URL: [](https://wellissonb.github.io/ping-coming-soon-page/)
 
 ## My process
 
