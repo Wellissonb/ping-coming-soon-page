@@ -1,0 +1,38 @@
+@charset "UTF-8";
+
+@media screen and (min-width: 800px){
+    form{
+        display: flex;
+        justify-content: center;
+        gap: 15px;
+    }
+
+    .logo{
+        width: calc(80px + 1vw);
+    }
+
+    h1{
+       font-size: calc(1.9em + 1vw);
+    }
+
+    input[type="email"]{
+        width: 500px;
+    }
+
+    .dashboardIMG{
+        max-width: 650px;
+    }
+
+    input[type="submit"]{
+     
+        max-width: 200px;
+    }
+
+    #errorAlert{
+        text-align: left;
+        margin-left: 8%;
+    }
+
+
+}
+
